@@ -1,9 +1,10 @@
 # About Me
 
-    🏢 BSIT WGU / Data Science IBM & Cornell
-    🏢 MBA WGU / Digital Marketing & Columbia
-    🌱 I’m formerly a Web Developer that moved into CX / Marketing and then Data Analytics
-    🔭 I’m currently working on Machine Learning & Tableau & Digital Marketing projects
+    🏢 Bachelor of Science in Information Technology WGU 
+    🏢 Master Business Administration WGU / Customer Engagement, Social Media, Planning & Analytics  Columbia usiness School
+    🏢 Master of Science in Data Analytics WGU / Data Science certificates from IBM & Cornell
+    🌱 I’m formerly a Web Developer that moved into Customer Success -> Marketing -> Data Analytics - > Customer Experience
+    🔭 I’m currently working on Machine Learning & Tableau projects
     👯 I’m open to collaborating with other data enthusiasts, start-uppers, geeks
     🤔 I’m keen to keep my Full-Stack Web Developement skills sharp, but seem to use them less and less
     💬 Ask me about anything webdev, data science / machine learning, tech stack, working in silicon valley
