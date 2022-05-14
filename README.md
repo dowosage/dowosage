@@ -3,12 +3,11 @@
     🏢 Bachelor of Science in Information Technology WGU
     🏢 MBA WGU / Customer Engagement, Social Media, Planning & Analytics Columbia Business School
     🏢 Master of Science in Data Analytics WGU / Data Science certificates from IBM & Cornell
-    🌱 I’m formerly a Web Developer that moved into Marketing -> Data Analytics -> Customer Experience
-    🔭 I’m currently working on Machine Learning & Tableau projects
-    👯 I’m open to collaborating with other data enthusiasts, start-uppers, geeks
-    🤔 I’m keen to keep my Full-Stack Web Development skills sharp, but seem to use them less and less
-    💬 Ask me about anything webdev, data science / machine learning, tech stack, working in silicon valley
-    📫 Email: dosage@wgu.edu
+    🌱 Formerly a Web Developer I moved into Marketing -> Data Analytics -> Customer Experience
+    🔭 Currently working on Machine Learning & Tableau projects
+    👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
+    💬 Topics of Interest: webdev, data science, machine learning, tech stack, working in silicon valley
+    📫 dosage@wgu.edu
 
 <br><br>
 Data & visualization tools:
