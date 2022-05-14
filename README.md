@@ -10,7 +10,7 @@
     📫 dosage@wgu.edu
 
 <br><br>
-Data & visualization tools:
+Data, analysis, & visualization tools:
 
 <img src="https://github.com/dowosage/dowosage/blob/main/sql.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/icon-03-python.png"> &nbsp;&nbsp;
