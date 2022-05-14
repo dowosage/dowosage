@@ -6,7 +6,7 @@
     🌱 I’m formerly a Web Developer that moved into Marketing -> Data Analytics -> Customer Experience
     🔭 I’m currently working on Machine Learning & Tableau projects
     👯 I’m open to collaborating with other data enthusiasts, start-uppers, geeks
-    🤔 I’m keen to keep my Full-Stack Web Developement skills sharp, but seem to use them less and less
+    🤔 I’m keen to keep my Full-Stack Web Development skills sharp, but seem to use them less and less
     💬 Ask me about anything webdev, data science / machine learning, tech stack, working in silicon valley
     📫 Email: dosage@wgu.edu
 
