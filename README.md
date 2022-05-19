@@ -23,7 +23,7 @@ Data, analysis, & visualization tools:
 <br><br>
 Connect or see more on:
 
-<a href="https://www.linkedin.com/in/dowosage/"><img src="https://github.com/dowosage/dowosage/blob/main/linkedin.png"><a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dowosage/"><img src="https://github.com/dowosage/dowosage/blob/main/linkedin.gif"><a> &nbsp;&nbsp;
 <a href="https://www.producthunt.com/@dow_osage"><img src="https://github.com/dowosage/dowosage/blob/main/glasshole_kitty_logo.png"><a> &nbsp;&nbsp;
 <a href="http://www.wiredtreehouse.com"><img src="https://github.com/dowosage/dowosage/blob/main/WTH-logo-sm.png"><a> &nbsp;&nbsp;
 <a href="https://public.tableau.com/app/profile/dow.osage"><img src="https://github.com/dowosage/dowosage/blob/main/tableau.png"><a> &nbsp;&nbsp;
