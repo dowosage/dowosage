@@ -14,11 +14,12 @@ Data, analysis, & visualization tools:
 
 <img src="https://github.com/dowosage/dowosage/blob/main/sql.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/icon-03-python.png"> &nbsp;&nbsp;
+<img src="https://github.com/dowosage/dowosage/blob/main/Rstudio.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/excel.jpg"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/tableau.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/css.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/html.png"> &nbsp;&nbsp;
-<!-- <img src="https://github.com/dowosage/dowosage/blob/main/JS.png"> &nbsp;&nbsp; -->
+<img src="https://github.com/dowosage/dowosage/blob/main/JS.png"> &nbsp;&nbsp;
 
 <br><br>
 Connect or see more on:
