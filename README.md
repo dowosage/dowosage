@@ -1,12 +1,14 @@
 
     🏢 Bachelor of Science in Information Technology WGU
-    🏢 Data Science certificates from IBM & Cornell
-    🏢 Cybersecurity & Cloud certifications from CompTIA & AWS 
-    🏢 MBA WGU / Customer Engagement, Social Media, Planning & Analytics Columbia Business School
-    🌱 Formerly a Web Developer I moved into Marketing -> Data Analytics -> Customer Experience
+    🏢 Master of Business Administration WGU
+    🏢 Data Science certifications from IBM & Cornell
+    🏢 Cybersecurity & Cloud certifications from CompTIA & AWS
+    🏢 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
+    🏢 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
+    🌱 Formerly a Web Developer my progression went: Marketing -> Data Analytics -> Customer Experience
     🔭 Currently working on Machine Learning & Tableau projects
     👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
-    💬 Topics of Interest: webdev, data science, machine learning, tech stack, working in silicon valley
+    💬 Topics of Interest: webdev, data science, machine learning, science of management & leadership, working in silicon valley
     📫 dosage@wgu.edu
 
 <br><br>
