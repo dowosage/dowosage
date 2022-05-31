@@ -5,7 +5,6 @@
     🏢 Cybersecurity & Cloud certifications from CompTIA & AWS
     🏢 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
     🏢 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
-    🌱 Formerly a Web Developer my progression went: Marketing -> Data Analytics -> Customer Experience
     🔭 Currently working on Machine Learning & Tableau projects
     👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
     💬 Topics of Interest: webdev, data science, machine learning, science of management & leadership, working in silicon valley
