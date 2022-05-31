@@ -7,7 +7,7 @@
     🏢 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
     🔭 Currently working on Machine Learning & Tableau projects
     👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
-    💬 Topics of Interest: webdev, data science, machine learning, science of management & leadership, working in silicon valley
+    💬 Topics of Interest: data science, machine learning, science of management, working in silicon valley
     📫 dosage@wgu.edu
 
 <br><br>
