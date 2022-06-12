@@ -1,6 +1,7 @@
 
-    🏢 Bachelor of Science in Information Technology WGU
-    🏢 Master of Business Administration WGU
+    🏢 Bachelor of Science in Information Technology
+    🏢 Master of Business Administration
+    🏢 Master of Management & Leadership
     🏢 Data Science certifications from IBM & Cornell
     🏢 Cybersecurity & Cloud certifications from CompTIA & AWS
     🏢 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
