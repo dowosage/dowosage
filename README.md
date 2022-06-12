@@ -1,12 +1,12 @@
 
-    🏢 Bachelor of Science in Information Technology
-    🏢 Master of Business Administration
-    🏢 Master of Management & Leadership
-    🏢 Data Science certifications from IBM & Cornell
-    🏢 Cybersecurity & Cloud certifications from CompTIA & AWS
-    🏢 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
-    🏢 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
-    🔭 Currently working on Machine Learning & Tableau projects
+    👨‍🎓 Bachelor of Science in Information Technology
+    📚 Master of Business Administration - in progress
+    📚 Master of Management & Leadership - in progress
+    📊 Data Science certifications from IBM & Cornell
+    📋 Project Management certification from CompTIA
+    🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
+    📈 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
+    ✊🏾👨🏿‍🤝‍👨🏳️‍🌈👩‍🦽 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
     👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
     💬 Topics of Interest: data science, machine learning, science of management, working in silicon valley
     📫 dosage@wgu.edu
