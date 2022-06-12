@@ -1,7 +1,7 @@
 
     👨‍🎓 Bachelor of Science in Information Technology
     📚 Master of Business Administration - in progress
-    📚 Master of Management & Leadership - in progress
+    📚 Master of Science in Management & Leadership - in progress
     📊 Data Science certifications from IBM & Cornell
     📋 Project Management certification from CompTIA
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
