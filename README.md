@@ -1,7 +1,7 @@
 
     👨‍🎓 Bachelor of Science in Information Technology - WGU
-    📚 Master of Business Administration - WGU  - in progress
-    📚 Master of Science in Management & Leadership - WGU - in progress
+    📚 Master of Business Administration - WGU
+    📚 Master of Science in Data Analytics - WGU - in progress
     📊 Data Science certifications from IBM & Cornell
     📋 Project Management certification from CompTIA
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
