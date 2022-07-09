@@ -1,15 +1,13 @@
-
-    👨‍🎓 Bachelor of Science in Information Technology - WGU
-    📚 Master of Business Administration - WGU
-    📚 Master of Science in Data Analytics - WGU - in progress
+    📚 Master of Science in Data Analytics - in progress
+    📚 Master of Business Administration
     📊 Data Science certifications from IBM & Cornell
-    📋 Project Management certification from CompTIA
-    🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
     📈 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈👩‍🦽 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
+    📋 Project Management certification from CompTIA
+    🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
+    👨‍🎓 Bachelor of Science in Information Technology
     👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
     💬 Topics of Interest: data science, machine learning, science of management, working in silicon valley
-    📫 dosage@wgu.edu
 
 <br><br>
 Data, analysis, & visualization tools:<br>
