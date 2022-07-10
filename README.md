@@ -1,5 +1,4 @@
-    📚 Master of Science in Data Analytics - in progress
-    📚 Master of Business Administration
+    📚 Master of Business Administration - in progress
     📊 Data Science certifications from IBM & Cornell
     📈 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈👩‍🦽 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
