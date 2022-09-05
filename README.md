@@ -8,7 +8,7 @@
     👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
     💬 Topics of Interest: data science, machine learning, science of management, working in silicon valley
 
-<br><br>
+<br>
 Data, analysis, & visualization tools:<br>
 <img src="https://github.com/dowosage/dowosage/blob/main/sql.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/icon-03-python.png"> &nbsp;&nbsp;
@@ -19,7 +19,7 @@ Data, analysis, & visualization tools:<br>
 <img src="https://github.com/dowosage/dowosage/blob/main/html.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/JS.png"> &nbsp;&nbsp;
 
-<br><br>
+<br>
 Connect or see more on:<br>
 <a href="https://www.linkedin.com/in/dowosage/" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/dowosage/dowosage/blob/main/linkedin.gif"></a> &nbsp;&nbsp;
