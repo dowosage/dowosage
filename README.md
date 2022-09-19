@@ -1,7 +1,8 @@
-    📚 Master of Business Administration - in progress
+    📚 Master of Data Analytics
     📊 Data Science certifications from IBM & Cornell
     📈 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈👩‍🦽 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
+    👨‍🎓 Master of Business Administration
     📋 Project Management certification from CompTIA
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
     👨‍🎓 Bachelor of Science in Information Technology
