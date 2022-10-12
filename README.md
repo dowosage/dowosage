@@ -1,11 +1,10 @@
-    📚 Master of Data Analytics
     📊 Data Science certifications from IBM & Cornell
     📈 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈👩‍🦽 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
-    👨‍🎓 Master of Business Administration
+    👨‍🎓 MBA
     📋 Project Management certification from CompTIA
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
-    👨‍🎓 Bachelor of Science in Information Technology
+    👨‍🎓 BSIT
     👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
     💬 Topics of Interest: data science, machine learning, science of management, working in silicon valley
 
