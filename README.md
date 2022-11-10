@@ -9,6 +9,7 @@
 
 <br><br>
 Data, analysis, & visualization tools:<br>
+<img src="https://github.com/dowosage/dowosage/blob/main/AWS.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/sql.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/icon-03-python.png"> &nbsp;&nbsp;
 <img src="https://github.com/dowosage/dowosage/blob/main/Rstudio.png"> &nbsp;&nbsp;
