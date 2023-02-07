@@ -3,7 +3,7 @@
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈👩‍🦽 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
     📋 Project Management certification from CompTIA
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
-    👨‍🎓 BSIT & MBA
+    👨‍🎓 BSIT & MBA & MS in Data Analytics
     👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
     💬 Topics of Interest: data science, machine learning, science of management, working in silicon valley
 
