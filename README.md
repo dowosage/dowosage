@@ -1,10 +1,10 @@
     📊 Data Science certifications from IBM & Cornell
-    📈 Digital Marketing, Customer Engagement, Social Media, Planning & Analytics Columbia Business School
-    ✊🏾👨🏿‍🤝‍👨🏳️‍🌈👩‍🦽 Diversity & Inclusion for Organizational Excellence Stanford Graduate School of Business
-    📋 Project Management certification from CompTIA
+    📈 Digital Marketing, Customer Engagement, Planning & Analytics from Columbia Business School
+    ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
+    📋 Project Management certifications from CompTIA & Google
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
-    🦉 BSIT & MBA & MS in Data Analytics from WGU
-    👯 Open to collaborating with other data enthusiasts, start-uppers, geeks
+    🦉 BS in Information Technology & MBA & MS in Data Analytics from WGU
+    👯 Open to collaborating with other data enthusiasts, start-uppers, 
     💬 Topics of Interest: data science, machine learning, science of management, working in silicon valley
 
 <br><br>
