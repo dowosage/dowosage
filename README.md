@@ -5,7 +5,7 @@
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
     🦉 BS in Information Technology & MBA & MS in Data Analytics from WGU
     👯 Open to collaborating with other data enthusiasts, start-uppers
-    💬 Topics of interest include being trans in tech, data, machine learning, working in silicon valley
+    💬 Topics of interest diversifying tech, data, machine learning / AI, working in silicon valley
 
 <br><br>
 Data, analysis, & visualization tools:<br>
