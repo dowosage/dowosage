@@ -27,7 +27,7 @@ Connect or see more on:<br>
 <img src="https://github.com/dowosage/dowosage/blob/main/glasshole_kitty_logo.png"></a> &nbsp;&nbsp;
 <!--<a href="http://www.wiredtreehouse.com/" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/dowosage/dowosage/blob/main/WTH-logo-sm.png"></a> &nbsp;&nbsp; -->
-<a href="https://public.tableau.com/app/profile/dow.osage/" target="_blank" rel="noopener noreferrer">
+<a href="https://public.tableau.com/app/profile/dowosage/" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/dowosage/dowosage/blob/main/tableau.png"></a> &nbsp;&nbsp;
 <a href="https://angel.co/u/dow-osage/" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/dowosage/dowosage/blob/main/angel.jpg"></a> &nbsp;&nbsp;
