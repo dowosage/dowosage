@@ -25,11 +25,13 @@ Connect or see more on:<br>
 <img src="https://github.com/dowosage/dowosage/blob/main/linkedin.gif"></a> &nbsp;&nbsp;
 <a href="https://www.producthunt.com/@dow_osage/" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/dowosage/dowosage/blob/main/glasshole_kitty_logo.png"></a> &nbsp;&nbsp;
-<!--<a href="http://www.wiredtreehouse.com/" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/dowosage/dowosage/blob/main/WTH-logo-sm.png"></a> &nbsp;&nbsp; -->
+<a href="https://www.wiredtreehouse.org/" target="_blank" rel="noopener noreferrer">
+<img src="https://github.com/dowosage/dowosage/blob/main/WTH-logo-sm.png"></a> &nbsp;&nbsp; 
 <a href="https://public.tableau.com/app/profile/dowosage/" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/dowosage/dowosage/blob/main/tableau.png"></a> &nbsp;&nbsp;
 <a href="https://angel.co/u/dow-osage/" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/dowosage/dowosage/blob/main/angel.jpg"></a> &nbsp;&nbsp;
 <a href="https://www.credly.com/users/dowosage/" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/dowosage/dowosage/blob/main/credly.png"></a> &nbsp;&nbsp;
+<!-- <a href="http://www.kaggle.com/dowosage" target="_blank" rel="noopener noreferrer">
+<img src="https://github.com/dowosage/dowosage/blob/main/kaggle-logo-transparent-300.png"></a> &nbsp;&nbsp; -->
