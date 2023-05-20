@@ -3,7 +3,7 @@
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
     📋 Project Management professional certifications from CompTIA, PMI & Google
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
-    🦉 BSc in Information Technology & MBA 
+    🦉 BSc in Information Technology & MBA & MSc Marketing
     👯 Open to collaborating with other data enthusiasts, start-uppers
     💬 Topics of interest diversifying tech, data, machine learning / AI, working in silicon valley
 
