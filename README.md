@@ -5,7 +5,7 @@
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
     🦉 BSc in Information Technology & MBA & MSc in Marketing
     👯 Open to collaborating with other data enthusiasts, start-uppers
-    💬 Topics of interest diversifying tech, data, machine learning / AI, working in silicon valley
+    💬 Topics of interest diversifying tech, analytics / BI, martech, working in silicon valley
 
 <br><br>
 Data, analysis, & visualization tools:<br>
