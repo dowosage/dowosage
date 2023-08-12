@@ -5,7 +5,7 @@
     📋 Project Management professional certifications from CompTIA & Google
     🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
     👯 Open to collaborating with other data enthusiasts, start-uppers
-    💬 Topics of interest diversifying tech, analytics / BI, martech, working in silicon valley
+    💬 Topics of interest diversifying tech, analytics / BI, martech, working in Silicon Valley
 
 <br><br>
 Data, analysis, & visualization tools:<br>
