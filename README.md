@@ -1,11 +1,11 @@
     🧑‍🎓 BSc in Information Technology & 📜 MBA & 📜 MSc in Marketing
     📊 Data Science certifications from IBM & Cornell
-    📈 Digital Marketing, Customer Engagement, Planning & Analytics from Columbia Business School
+    📈 Digital Marketingcertificates from Columbia Business School & Google
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
     📋 Project Management professional certifications from CompTIA & Google
-    🛡️ Cybersecurity & Cloud certifications from CompTIA & AWS
-    👯 Open to collaborating with other data enthusiasts, start-uppers
-    💬 Topics of interest diversifying tech, analytics / BI, martech, working in Silicon Valley
+    🛡️ Cloud certifications from CompTIA & AWS
+    👯 Interested in supporting small businesses & non-profits with marketing and analytics
+    💬 Topics of interest: MarTech, marketing, analytics, CX, UX, diversifying tech
 
 <br><br>
 Data, analysis, & visualization tools:<br>
