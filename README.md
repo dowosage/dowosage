@@ -1,6 +1,6 @@
     🧑‍🎓 BSc in Information Technology & 📜 MBA & 📜 MSc in Marketing
     📊 Data Science certifications from IBM & Cornell
-    📈 Digital Marketingcertificates from Columbia Business School & Google
+    📈 Digital Marketing certificates from Columbia Business School & Google
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
     📋 Project Management professional certifications from CompTIA & Google
     🛡️ Cloud certifications from CompTIA & AWS
