@@ -5,7 +5,7 @@
     📋 Project Management professional certifications from CompTIA & Google
     🛡️ Cloud certifications from CompTIA & AWS
     👯 Interested in supporting small businesses & non-profits with marketing and analytics
-    💬 Topics of interest: MarTech, marketing, analytics, CX, UX, diversifying tech
+    💬 Topics of interest: MarTech, analytics, CX, UX, DEI, diversifying tech
 
 <br><br>
 Data, analysis, & visualization tools:<br>
