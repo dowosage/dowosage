@@ -1,11 +1,11 @@
-    🧑‍🎓 BSc in Information Technology & 📜 MBA & 📜 MSc in Marketing specializing in Analytics
+    🧑‍🎓 BSc in Information Technology & 📜 MBA & 📜 MSc specializing in Analytics
     📊 Data Science certifications from IBM & Cornell
     📈 Digital Marketing certificates from Columbia Business School & Google
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
     📋 Project Management professional certifications from CompTIA & Google
     🛡️ Scrum, Agile, and Product Management certifications from Six Sigma
     👯 Interested in supporting small businesses & non-profits with marketing and analytics
-    💬 Topics of interest: MarTech, analytics, CX, UX, DEI, diversifying tech
+    💬 Topics of interest: MarTech, CX, UX, diversifying tech
 
 <br><br>
 Data, analysis, & visualization tools:<br>
