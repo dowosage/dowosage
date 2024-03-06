@@ -3,7 +3,7 @@
     📈 Digital Marketing certificates from Columbia Business School & Google
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
     📋 Project Management professional certifications from CompTIA & Google
-    🛡️ Cloud certifications from CompTIA & AWS
+    🛡️ Scrum, Agile, and Product Management certifications from Six Sigma
     👯 Interested in supporting small businesses & non-profits with marketing and analytics
     💬 Topics of interest: MarTech, analytics, CX, UX, DEI, diversifying tech
 
