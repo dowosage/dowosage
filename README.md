@@ -4,8 +4,8 @@
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
     📋 Project Management professional certifications from CompTIA & Google
     🛡️ Scrum, Agile, and Product Management certifications from Six Sigma
-    👯 Interested in supporting small businesses & non-profits with marketing and analytics
-    💬 Topics of interest: MarTech, CX, UX, diversifying tech
+    👯 Interested in supporting small businesses & non-profits
+    💬 Interests: CX, UX/UI, DEI, Analytics, Data-Driven Decision-Making
 
 <br><br>
 Data, analysis, & visualization tools:<br>
