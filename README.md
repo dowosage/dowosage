@@ -5,7 +5,7 @@
     📋 Project Management professional certifications from CompTIA & Google
     🛡️ Scrum, Agile, and Product Management certifications from Six Sigma
     👯 Interested in supporting small businesses & non-profits
-    💬 Interests: CX, UX/UI, DEI, Analytics, Data-Driven Decision-Making
+    💬 Interests: CX, UX/UI, DEI, Leadership, Analytics, Data-Driven Decision-Making
 
 <br><br>
 Data, analysis, & visualization tools:<br>
