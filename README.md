@@ -2,10 +2,8 @@
     📊 Data Science certifications from IBM & Cornell
     📈 Digital Marketing certificates from Columbia Business School & Google
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
-    📋 Project Management certified
-    🛡️ Scrum, Agile, and Product Management certifications from Six Sigma
-    👯 Interested in supporting small businesses & non-profits
-    💬 Interests: CX, UX/UI, DEI, Leadership, Analytics, Data-Driven Decision-Making
+    🛡️ Scrum, Agile, Project Management certified
+    💬 Interests: CX, DEI, Leadership, Data-Driven Decision-Making
 
 <br><br>
 Data, analysis, & visualization tools:<br>
