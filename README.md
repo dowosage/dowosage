@@ -33,5 +33,5 @@ Connect or see more on:<br>
 <img src="https://github.com/dowosage/dowosage/blob/main/angel.jpg"></a> &nbsp;&nbsp;
 <a href="https://www.credly.com/users/dowosage/" target="_blank" rel="noopener noreferrer">
 <img src="https://github.com/dowosage/dowosage/blob/main/credly.png"></a> &nbsp;&nbsp;
-<!-- <a href="http://www.kaggle.com/dowosage" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/dowosage/dowosage/blob/main/kaggle-logo-transparent-300.png"></a> &nbsp;&nbsp; -->
+<a href="https://community.pmi.org/profile/dowosage" target="_blank" rel="noopener noreferrer">
+<img src="https://github.com/dowosage/dowosage/blob/main/PMILogo.png"></a> &nbsp;&nbsp;
