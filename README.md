@@ -1,4 +1,4 @@
-    🧑‍🎓 BSc in Information Technology, MBA, MSc Specializing in Analytics
+    🧑‍🎓 BSc in Information Technology, MBA, MSc specializing in Analytics
     📊 Data Science certifications from IBM & Cornell
     📈 Digital Marketing certificates from Columbia Business School & Google
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
