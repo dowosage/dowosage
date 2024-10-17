@@ -3,7 +3,7 @@
     📈 Digital Marketing certificates from Columbia Business School & Google
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
     🛡️ Scrum, Agile, Project Management certified
-    💬 Interests: CX, Operations, Data-Driven Decision-Making
+    💬 Interests: Cybersecurity, Operations, Data-Driven Decision-Making
 
 <br><br>
 Data, analysis, & visualization tools:<br>
