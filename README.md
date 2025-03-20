@@ -1,8 +1,8 @@
-    🧑‍🎓 BSc in Information Technology, MBA, MSc specializing in Analytics
+    🧑‍🎓 BSc in Information Technology, MBA, MSc Marketing specializing in Analytics
     📊 Data Science certifications from IBM & Cornell
     ✊🏾👨🏿‍🤝‍👨🏳️‍🌈🏳️‍⚧️👩‍🦽 Diversity & Inclusion certificate from Stanford Graduate School of Business
     🛡️ Cybersecurity, ITIL, and Project Management certified
-    💬 Interests: Cybersecurity, Operations, Data-Driven Decision-Making
+    💬 Interests: Online Privacy, Cybersecurity, Business Operations, Data-Driven Decision-Making
 
 <br><br>
 Data, analysis, & visualization tools:<br>
